@@ -16,5 +16,3 @@ This section contains important documents and records related to your achievemen
 - 🏅 **Digital and physical badges** for specific achievements.  
 - 🔖 **Recognitions** for skills and contributions.  
 - 🚀 **Awards and excellence certifications**.  
-
-This structure helps you efficiently organize all your important documents in one place! 🚀  
