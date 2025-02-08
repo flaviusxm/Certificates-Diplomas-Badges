@@ -1,20 +1,20 @@
 # 📂 Certificates-Diplomas-Badges-Activities 📂
 
-Această secțiune conține documente și înregistrări importante legate de realizările și participările tale.
+This section contains important documents and records related to your achievements and participation.  
 
-🏆 Diplome și Certificate (Certificates-Diplomas)
-📜 Diplome obținute în urma studiilor, cursurilor sau competițiilor.
-🎓 Certificate de participare, absolvire sau perfecționare.
-✅ Acreditări și recunoașteri profesionale.
+## 🏆 Certificates & Diplomas (`Certificates-Diplomas`)  
+- 📜 **Diplomas** earned from studies, courses, or competitions.  
+- 🎓 **Certificates** of participation, completion, or professional development.  
+- ✅ **Accreditations** and professional recognitions.  
 
-🎯 Activități (Activities)
-📅 Evenimente și proiecte la care ai luat parte.
-📖 Workshop-uri, seminarii și traininguri.
-🤝 Colaborări și voluntariate.
+## 🎯 Activities (`Activities`)  
+- 📅 **Events and projects** you have participated in.  
+- 📖 **Workshops, seminars, and training programs**.  
+- 🤝 **Collaborations and volunteer work**.  
 
-🎖️ Insigne și Distincții (Badges)
-🏅 Insigne digitale și fizice pentru realizări specifice.
-🔖 Recunoașteri pentru competențe și implicare.
-🚀 Premii și certificări de excelență.
+## 🎖️ Badges & Distinctions (`Badges`)  
+- 🏅 **Digital and physical badges** for specific achievements.  
+- 🔖 **Recognitions** for skills and contributions.  
+- 🚀 **Awards and excellence certifications**.  
 
-Această structură te ajută să-ți organizezi eficient toate documentele importante într-un singur loc! 🚀
+This structure helps you efficiently organize all your important documents in one place! 🚀  
