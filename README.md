@@ -1,4 +1,4 @@
-# Certificates-Diplomas-Badges-Activities 
+# Certificates-Diplomas-Activities 
 
 This section contains important documents and records related to my achievements.
 
