@@ -1,6 +1,6 @@
 # 📂 Certificates-Diplomas-Badges-Activities 📂
 
-This section contains important documents and records related to your achievements and participation.  
+This section contains important documents and records related to my achievements.
 
 ## 🏆 Certificates & Diplomas (`Certificates-Diplomas`)  
 - 📜 **Diplomas** earned from studies, courses, or competitions.  
@@ -12,7 +12,3 @@ This section contains important documents and records related to your achievemen
 - 📖 **Workshops, seminars, and training programs**.  
 - 🤝 **Collaborations and volunteer work**.  
 
-## 🎖️ Badges & Distinctions (`Badges`)  
-- 🏅 **Digital and physical badges** for specific achievements.  
-- 🔖 **Recognitions** for skills and contributions.  
-- 🚀 **Awards and excellence certifications**.  
